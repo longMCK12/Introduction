@@ -14,7 +14,7 @@
 - 🧠 Solid understanding of **HTML, CSS, JavaScript**, including **DOM manipulation**
 - ⚛️ Familiar with **ReactJS**
 - 🔗 Experience working with **RESTful APIs**
-- 🗄️ Knowledge of **JavaScript (ReactJS), NoSQL, JSON, APIs**
+- 🗄️ Knowledge of **JavaScript (ReactJS), NoSQL, PostgreSQL, JSON, APIs**
 - 🧰 Proficient in **Git** and source code management tools
 - 🚀 Currently looking for **Intern / Junior opportunities**
 - 📍 Working location: **Ho Chi Minh City, Vietnam**
@@ -40,6 +40,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Other Tools
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
